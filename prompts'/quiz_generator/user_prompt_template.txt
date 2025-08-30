@@ -1,0 +1,4 @@
+Please generate a 3-question multiple-choice quiz based on the following theme and topics:
+
+Theme: {{day_theme}}
+Topics: {{list_of_topics}}
