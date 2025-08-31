@@ -1,0 +1,23 @@
+Your task is to extract structured information from a given text and return it as a clean JSON object.
+
+---
+Here is an example of how to do it:
+
+[EXAMPLE]
+Text: "The team meeting is scheduled for next Tuesday at 3 PM in Conference Room B. Please RSVP to Jane Doe by Friday."
+JSON:
+{
+  "event": "Team Meeting",
+  "day": "Tuesday",
+  "time": "3:00 PM",
+  "location": "Conference Room B",
+  "rsvp_contact": "Jane Doe",
+  "rsvp_deadline": "Friday"
+}
+---
+
+Now, perform the same task for the following text.
+
+[USER QUERY]
+Text: "{user_query}"
+JSON:
