@@ -1,0 +1,4 @@
+- Use a simple, real-world analogy to introduce the concept.
+- Avoid all technical jargon and acronyms. If you must use one, define it immediately in plain language.
+- Keep the explanation concise and focused on the core idea.
+- The tone should be encouraging and friendly.

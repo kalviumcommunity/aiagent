@@ -1,0 +1,4 @@
+- Be concise and direct. The audience is already familiar with the basics.
+- Focus on the nuances, trade-offs, and advanced applications of the concept.
+- Discuss performance implications, edge cases, or common misconceptions.
+- Use precise technical language.

@@ -1,0 +1,4 @@
+- You can assume the audience understands foundational concepts in this field.
+- Define key technical terms clearly.
+- Compare and contrast the concept with related technologies or ideas.
+- Provide a brief, practical example of how it is used.
