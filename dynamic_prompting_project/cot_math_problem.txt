@@ -1,0 +1,21 @@
+Your task is to solve a math word problem by thinking step-by-step before providing the final answer.
+
+---
+[EXAMPLE]
+
+Question: A farmer has 15 apples. He sells 3 to his neighbor. He then picks 5 more apples from his orchard. How many apples does the farmer have now?
+
+Thought:
+1.  The farmer starts with 15 apples.
+2.  He sells 3 apples, so I need to subtract 3 from 15. 15 - 3 = 12 apples.
+3.  He then picks 5 more apples, so I need to add 5 to the current amount. 12 + 5 = 17 apples.
+4.  The final number of apples is 17.
+
+Answer: 17
+---
+
+[USER PROBLEM]
+
+Question: {user_question}
+
+Thought:
